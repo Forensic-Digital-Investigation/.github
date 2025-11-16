@@ -22,6 +22,6 @@ While FDI is primarily private, the organization may host:
 ---
 ## 📬 Contact  
 📧 **fdi.investigation.team@gmail.com**  
-🌐 [GitHub Organization](https://github.com/fdi-investigation)  
+🌐 [GitHub Organization](https://github.com/Forensic-Digital-Investigation)  
 
 
